@@ -15,8 +15,8 @@ sections:
       email: yl557@sussex.ac.uk
       # phone: 888 888 88 88
       address:
-        stree: Nourth-South Road, Richmond 4B6
-        city: Brighton
+        #stree: Nourth-South Road, Richmond 4B6
+        city: Nourth-South Road, Richmond 4B6, Brighton
         # region: CA
         postcode: 'BN1 9QT'
         country: United Kingdom
