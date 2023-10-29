@@ -11,7 +11,7 @@ sections:
       text: |-
         <br>
 
-        Yanan Li, PhD (Principal Investigator)
+        ** Yanan Li, PhD **(Principal Investigator)
       email: yl557@sussex.ac.uk
       # phone: 888 888 88 88
       address:
