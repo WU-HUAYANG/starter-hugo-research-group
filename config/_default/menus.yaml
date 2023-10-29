@@ -22,6 +22,6 @@ main:
   - name: Gallery
     url: contact
     weight: 60
-  - name: More
+  - name: Contact
     url: contact
     weight: 70

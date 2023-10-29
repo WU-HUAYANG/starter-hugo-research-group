@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      # title: Contact
       text: |-
         <br>
 
@@ -16,7 +16,7 @@ sections:
       # phone: 888 888 88 88
       address:
         #stree: Nourth-South Road, Richmond 4B6
-        city: Richmond 4B6, Nourth-South Road, Brighton
+        city: Richmond 4B6, Nourth-South Road, Brighton, United Kingdom
         # region: CA
         postcode: 'BN1 9QT'
         country: United Kingdom
@@ -38,16 +38,16 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     
-    #   # Email form provider
-    #   form:
-    #     provider: netlify
-    #     formspree:
-    #       id:
-    #     netlify:
-    #       # Enable CAPTCHA challenge to reduce spam?
-    #       captcha: false
-    # design:
-    #   columns: '1'
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '1'
 
   # - block: markdown
   #   content:
