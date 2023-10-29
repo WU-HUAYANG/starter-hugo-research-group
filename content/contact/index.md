@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2023-10-29
 
 type: landing
 
@@ -16,7 +16,7 @@ sections:
       # phone: 888 888 88 88
       address:
         #stree: Nourth-South Road, Richmond 4B6
-        city: Nourth-South Road, Richmond 4B6, Brighton
+        city: Richmond 4B6, Nourth-South Road, Brighton
         # region: CA
         postcode: 'BN1 9QT'
         country: United Kingdom
