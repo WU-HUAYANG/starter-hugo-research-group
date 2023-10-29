@@ -10,7 +10,7 @@ main:
   - name: People
     url: people
     weight: 20
-  - name: 'Research  & Equipment'
+  - name: 'Research & Equipment'
     url: people
     weight: 13
   - name: Publications
