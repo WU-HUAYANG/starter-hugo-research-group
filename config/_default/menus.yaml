@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Open positions
+  - name: Openpositions
     url: publication
     weight: 70
   - name: Gallery
