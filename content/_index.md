@@ -11,7 +11,7 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: welcome.jpg
+        filename: GroupPicture.jpg
       text: |
         <br>
         
@@ -40,7 +40,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
+      text:  University of Sussex Richmod 4b6
     design:
       columns: '1'
       background:
